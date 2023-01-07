@@ -200,7 +200,7 @@ body, html {
 
 .project .title-one{
   position: relative;
-  padding-right: 0;
+  padding-right: 2vw;
   font-family: 'Montserrat';
   font-weight: 600;
   font-size: 3vw;
@@ -226,7 +226,6 @@ body, html {
 }
 
 .jacques .title-one{
-padding-right: 2vw;
 font-size: 3vw;
 }
 
